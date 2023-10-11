@@ -1,11 +1,9 @@
 ---
 title: "R Notebook"
-output:
-  pdf_document: default
-  github_document: default
+output: github_document
 ---
  
-
+ 
 # Tutoriel DADA2
 
 ## Partie 1 tutoriel
